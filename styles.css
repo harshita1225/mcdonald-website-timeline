@@ -249,3 +249,7 @@ img {
   height: auto;
   border-radius: 5%;
 }
+
+img:hover {
+  transform: scale(1.5);
+}

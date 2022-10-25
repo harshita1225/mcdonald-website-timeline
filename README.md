@@ -17,12 +17,12 @@
 #### Desktop Version
 
 - slide1
-  ![Desktop Layout](./readme1.png)
+  ![Desktop Layout](./img/readme1.png)
 
 - slide2
-  ![Desktop Layout](./readme2.png)
+  ![Desktop Layout](./img/readme2.png)
 - slide3
-  ![Desktop Layout](./readme3.png)
+  ![Desktop Layout](./img/readme3.png)
 
 ### Built with
 
