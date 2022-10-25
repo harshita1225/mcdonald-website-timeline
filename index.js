@@ -1,6 +1,4 @@
-(function () {
-  "use strict";
-
+function timeline() {
   // define variables
   let items = document.querySelectorAll(".timeline li");
 
@@ -29,4 +27,6 @@
   window.addEventListener("load", callbackFunc);
   window.addEventListener("resize", callbackFunc);
   window.addEventListener("scroll", callbackFunc);
-})();
+}
+
+timeline();
